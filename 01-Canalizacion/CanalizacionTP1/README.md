@@ -1,5 +1,5 @@
 # Pipeline
-Trabajo Práctico 1: TF-IDF (Term Frequency-Inverse Document Frequency)
+**Trabajo Práctico 1: TF-IDF (Term Frequency-Inverse Document Frequency)**
 
 Construir un pipeline de procesamiento de lenguaje natural para analizar el corpus CorpusLenguajes.txt, aplicando técnicas de limpieza, representación y visualización textual.
 🔧 Etapas del Pipeline
